@@ -1,1 +1,2 @@
 This ffile maked on local pc
+this text is check of functions
